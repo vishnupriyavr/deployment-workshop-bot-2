@@ -48,6 +48,8 @@
 - not very good
 - extremely sad
 - so sad
+- feeling bad
+- feeling not so good
 
 ## intent:bot_challenge
 - are you a bot?
